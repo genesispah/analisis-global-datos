@@ -37,7 +37,7 @@ El objetivo es identificar factores clave que influyen en la calidad de vida, la
 
 ### Esperanza de vida > 75 años
 
-![Esperanza de vida](images/esperanza_vida.png)
+![Esperanza](esperanza de vida mayor 75 años.png)
 
 ### Relación población vs superficie
 
@@ -45,7 +45,7 @@ El objetivo es identificar factores clave que influyen en la calidad de vida, la
 
 ### Ciudades con más de 5 millones de habitantes
 
-![Ciudades](images/ciudades_5millones.png)
+![Ciudades](ciudades con mas de 5 millones de habitantes.png)
 
 ### Idiomas por continente
 
