@@ -41,7 +41,7 @@ El objetivo es identificar factores clave que influyen en la calidad de vida, la
 
 ### Relación población vs superficie
 
-![Población vs superficie](images/dispersion_poblacion_superficie.png)
+![Scatter](dispersion poblacion vs superficie.png)
 
 ### Ciudades con más de 5 millones de habitantes
 
