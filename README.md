@@ -32,37 +32,28 @@ El objetivo es identificar factores clave que influyen en la calidad de vida, la
 ## 📊 Visualizaciones
 
 ### Idiomas oficiales en Sudamérica
-
 ![Idiomas](idiomas_sudamerica.png)
 
 ### Esperanza de vida > 75 años
-
-![Esperanza](esperanza de vida mayor 75 años.png)
+![Esperanza](esperanza_vida.png)
 
 ### Relación población vs superficie
-
-![Scatter](dispersion poblacion vs superficie.png)
+![Scatter](dispersion_poblacion_superficie.png)
 
 ### Ciudades con más de 5 millones de habitantes
-
-![Ciudades](ciudades con mas de 5 millones de habitantes.png)
+![Ciudades](ciudades_5millones.png)
 
 ### Idiomas por continente
-
-![Idiomas por continente](images/idiomas_continente.png)
+![Idiomas continente](idiomas_continente.png)
 
 ### Riesgo por megaciudades
-
-![Megaciudades](images/megaciudades.png)
+![Megaciudades](megaciudades.png)
 
 ### Riesgo lingüístico
-
-![Riesgo lingüístico](images/riesgo_linguistico.png)
+![Riesgo](riesgo_linguistico.png)
 
 ### Fragmentación lingüística
-
-![Fragmentación lingüística](images/fragmentacion_linguistica.png)
-
+![Fragmentación](fragmentacion_linguistica.png)
 ---
 
 ## 💡 Insights principales
