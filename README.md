@@ -33,7 +33,7 @@ El objetivo es identificar factores clave que influyen en la calidad de vida, la
 
 ### Idiomas oficiales en Sudamérica
 
-![Idiomas](imagenes/Idiomas_oficiales_en_Sudamerica.png)
+![Idiomas](imagenes/Idiomas oficiales en Sudamerica.png)
 
 ### Esperanza de vida > 75 años
 
